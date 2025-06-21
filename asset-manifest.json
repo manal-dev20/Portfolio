@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.25271df2.css",
+    "main.js": "/Portfolio/static/js/main.0d4f9c18.js",
+    "static/js/415.4d6acbeb.chunk.js": "/Portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/avatar.png": "/Portfolio/static/media/avatar.78ebbda6e17cf20bfb90.png",
+    "static/media/amcra.png": "/Portfolio/static/media/amcra.b76da732e2e4679f8837.png",
+    "static/media/home-main.svg": "/Portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Manal  Cv.pdf": "/Portfolio/static/media/Manal  Cv.ba9c0aa10201909a0cb4.pdf",
+    "static/media/tripplanner.png": "/Portfolio/static/media/tripplanner.c1d06b5691544a428b02.png",
+    "static/media/logo.png": "/Portfolio/static/media/logo.373818161b0b22de8940.png",
+    "static/media/home-bg.jpg": "/Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/Portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/Portfolio/index.html",
+    "main.25271df2.css.map": "/Portfolio/static/css/main.25271df2.css.map",
+    "main.0d4f9c18.js.map": "/Portfolio/static/js/main.0d4f9c18.js.map",
+    "415.4d6acbeb.chunk.js.map": "/Portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25271df2.css",
+    "static/js/main.0d4f9c18.js"
+  ]
+}
